@@ -1,0 +1,87 @@
+*{
+    /* overflow-x:hidden; */
+}
+.navbar img {
+    width: 110px;
+    height: 45px;
+}
+
+.navbar {
+    z-index: 10;
+}
+
+
+
+.jumbotron {
+    height: 100vh;
+    background-image: url("images/drew-coffman-1872.jpg");
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.define {
+    height: 100vh;
+
+}
+
+.Location {
+    height: 100vh;
+
+}
+
+.baking {
+    height: 100vh;
+
+}
+
+.def-text {
+    justify-items: center;
+
+}
+
+img {
+    width: 85%;
+    height: 55%;
+}
+
+ul {
+    list-style-type: none;
+
+    i {
+        color: darkgoldenrod;
+        font-size: 16;
+        border-radius: 25px;
+        padding: 12px;
+        margin: 5px;
+        border: 1px solid darkgoldenrod;
+    }
+}
+.title{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+}
+.card img{
+    height:200px;
+}
+.contact{
+    height: 100vh;
+}
+footer{
+    background-color: rgb(140, 57, 25);
+    height:100vh ;
+    justify-content: space-between;
+    img{
+        width:70%;
+    }
+    .footerBotom{
+        background-color: rgb(106, 44, 19);
+        height: 40%;
+        padding: 12px;
+
+    }
+    
+}
